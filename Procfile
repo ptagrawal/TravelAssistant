@@ -1,1 +1,1 @@
-web: AlexaSkills
+web: TravelAssistant
