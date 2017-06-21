@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	alexaProtocol "AlexaSkills/protocol/alexa"
-	"AlexaSkills/requesthandlers/alexa"
+	alexaProtocol "TravelAssistant/protocol/alexa"
+	"TravelAssistant/requesthandlers/alexa"
 )
 
 func init() {

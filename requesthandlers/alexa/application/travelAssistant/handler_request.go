@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"AlexaSkills/protocol/alexa"
+	"TravelAssistant/protocol/alexa"
 )
 
 type Default struct {

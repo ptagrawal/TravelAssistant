@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"AlexaSkills/mux"
+	"TravelAssistant/mux"
 )
 
 /*var (

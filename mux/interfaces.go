@@ -3,7 +3,7 @@ package mux
 import (
 	"net/http"
 
-	"AlexaSkills/requesthandlers/alexa"
+	"TravelAssistant/requesthandlers/alexa"
 )
 
 type RequestHandler interface {

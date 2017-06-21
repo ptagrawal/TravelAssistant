@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strings"
 
-	muxAlexa "AlexaSkills/mux/alexa"
-	alexaProtocol "AlexaSkills/protocol/alexa"
-	rhAlexa "AlexaSkills/requesthandlers/alexa"
+	muxAlexa "TravelAssistant/mux/alexa"
+	alexaProtocol "TravelAssistant/protocol/alexa"
+	rhAlexa "TravelAssistant/requesthandlers/alexa"
 )
 
 type Handler struct {

@@ -3,8 +3,8 @@ package alexa
 import (
 	"errors"
 
-	"AlexaSkills/protocol/alexa"
-	"AlexaSkills/requesthandlers/alexa/application/travelAssistant"
+	"TravelAssistant/protocol/alexa"
+	"TravelAssistant/requesthandlers/alexa/application/travelAssistant"
 )
 
 const (

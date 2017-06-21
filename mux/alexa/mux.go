@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"AlexaSkills/requesthandlers/alexa"
+	"TravelAssistant/requesthandlers/alexa"
 )
 
 var mux = make(map[string]func(http.ResponseWriter, *http.Request, alexa.RequestHandler))

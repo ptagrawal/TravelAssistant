@@ -3,7 +3,7 @@ package travelAssistant
 import (
 	"errors"
 
-	"AlexaSkills/protocol/alexa"
+	"TravelAssistant/protocol/alexa"
 )
 
 type handlerSessionEndedRequest struct {

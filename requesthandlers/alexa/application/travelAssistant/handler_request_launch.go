@@ -1,6 +1,6 @@
 package travelAssistant
 
-import "AlexaSkills/protocol/alexa"
+import "TravelAssistant/protocol/alexa"
 
 type handlerLaunchRequest struct {
 }
